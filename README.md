@@ -2,16 +2,16 @@ This repo is to test resources creation using terraform with GCP
 
 I can show the changes that will be applied by using : 
 
-''' terraform plan '''
+``` terraform plan ```
 
 To apply changes : 
 
-''' terraform apply '''
+``` terraform apply ```
 
 to show what the current main.tf file is doing : 
 
-''' terraform show '''
+``` terraform show ```
 
 to undo everything in the plan: 
 
-''' terraform destroy '''
+``` terraform destroy ```
